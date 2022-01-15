@@ -1,0 +1,416 @@
+@media only screen and (min-width: 1366px) and (max-width: 1920px) {
+      .banner-lst-img img {
+            height: 647px;
+      }
+
+      .kenapa .kenapa-left {
+            padding-left: 310px;
+      }
+
+      .app .app-left {
+            padding-left: 320px;
+      }
+
+      .top-left .logo {
+            width: 40px;
+            height: 40px;
+      }
+
+      .top-left .logo h1 {
+            font-size: 12px;
+      }
+
+      .top-left .top-left-menu ul li {
+            padding-right: 49px;
+      }
+
+      .top-left .top-left-menu ul li>a {
+            font-size: 15px;
+      }
+
+      .top-right-menu ul li>a {
+            font-size: 15px;
+      }
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1440px) {
+      .banner-content {
+            left: 14px;
+      }
+
+      .banner-form {
+            left: 14px;
+      }
+
+      .banner-content h1 {
+            font-size: 49px;
+      }
+
+      .banner-lst-img img {
+            height: 557px;
+      }
+
+      .top-left .logo {
+            width: 40px;
+            height: 40px;
+      }
+
+      .top-left .logo h1 {
+            font-size: 12px;
+      }
+
+      .top-left .top-left-menu ul li {
+            padding-right: 49px;
+      }
+
+      .top-left .top-left-menu ul li>a {
+            font-size: 15px;
+      }
+
+      .top-right-menu ul li>a {
+            font-size: 15px;
+      }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+      .top-left .logo {
+            margin-right: 40px;
+            width: 40px;
+            height: 40px;
+      }
+
+      .top-left .logo h1 {
+            font-size: 14px;
+      }
+
+      .top-left .top-left-menu ul li {
+            padding-right: 20px;
+      }
+
+      .top-left .top-left-menu ul li>a {
+            font-size: 15px;
+      }
+
+      .top-right-menu ul li>a {
+            font-size: 15px;
+      }
+
+      .top-right-menu ul li {
+            padding-left: 26px;
+      }
+
+      .banner-content h1 {
+            font-size: 41px;
+      }
+
+      .banner-select .select-inner {
+            padding-left: 33px;
+      }
+
+      .banner-form {
+            width: 446px;
+      }
+
+      .banner-lst-img img {
+            height: 467px;
+      }
+
+      .banner-bottom-content p {
+            font-size: 28px;
+      }
+
+      .bottom-right-content p {
+            font-size: 12px;
+      }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+      .top-left .logo {
+            margin-right: 28px;
+      }
+
+      .top-left .top-left-menu ul li {
+            padding-right: 3px;
+      }
+
+      .top-left .top-left-menu ul li>a {
+            font-size: 12px;
+      }
+
+      .top-right-menu ul li {
+            padding-left: 2px;
+      }
+
+      .top-right-menu ul li>a {
+            font-size: 12px;
+      }
+
+      .banner-content h1 {
+            font-size: 30px;
+    line-height: 47px;
+      }
+
+      .banner-content {
+            top: 40px;
+      }
+
+      .banner-form {
+            width: 358px;
+            height: 117px;
+            top: 144px;
+            left: 0;
+      }
+
+      .banner-select .select-inner {
+            padding-left: 17px;
+      }
+
+      .banner-select select {
+            width: 86%;
+
+      }
+
+      .banner-select a {
+            padding: 14px 20px 19px 23px;
+      }
+
+      .banner-lst-img img {
+            height: 346px;
+      }
+
+      .banner-bottom-content p {
+            font-size: 21px;
+      }
+
+      .bottom-right-content p {
+            font-size: 12px;
+      }
+
+      .kenapa-back {
+            padding-right: 0;
+    padding-left: 0;
+      }
+
+      .kenapa .kenapa-right .clip-board {
+            width: 40px;
+    height: 40px;
+      }
+
+      .kenapa .kenapa-right .clip-content {
+            padding-left: 24px;
+            padding-bottom: 63px;
+        }
+
+        .kenapa .kenapa-left .kenapa-title h1 {
+            font-size: 25px;
+        }
+
+        .kenapa .kenapa-left .count-1 h1 {
+            font-size: 50px;
+        }
+
+        .kenapa .kenapa-left .count-1 p {
+            font-size: 13px;
+        }
+
+        .kenapa .kenapa-left .kenapa-title p {
+            margin-bottom: 52px;
+        }
+
+        .app .app-left {
+            padding-left: 80px;
+        }
+
+        .app-content h2 {
+            font-size: 33px;
+        }
+
+        .app-right {
+            padding-top: 165px;
+        }
+
+        .app-right h1 {
+            font-size: 28px;
+        }
+
+        .app-right p {
+            font-size: 13px;
+        }
+
+        .app-right .right-content {
+            padding-bottom: 39px;
+        }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+      .top-left .logo {
+            margin-right: 25px;
+      }
+
+      .top-right-menu {
+            justify-content: space-between;
+            padding-top: 25px;
+      }
+
+      .top-left .top-left-menu ul li {
+            padding-right: 3px;
+      }
+
+      .top-left .top-left-menu ul li>a {
+            font-size: 12px;
+      }
+
+      .top-right-menu ul li {
+            padding-left: 2px;
+      }
+
+      .top-right-menu ul li>a {
+            font-size: 12px;
+      }
+
+      .banner-content h1 {
+            font-size: 30px;
+    line-height: 47px;
+      }
+
+      .banner-content {
+            top: 67px;
+            left: 177px;
+      }
+
+      .banner-form {
+            width: 358px;
+    height: 117px;
+    top: 204px;
+    left: 116px;
+      }
+
+      .banner .col-sm-4 {
+            display: block;
+    margin: auto;
+      }
+
+      .banner .col-sm-12 {
+            display: block;
+    margin: auto;
+      }
+
+
+      .bottom-right-content a {
+            display: flex;
+    justify-content: center;
+      }
+
+      .banner-select .select-inner {
+            padding-left: 17px;
+      }
+
+      .banner-select select {
+            width: 86%;
+
+      }
+
+      .banner-select a {
+            padding: 14px 20px 19px 23px;
+      }
+
+      .banner-lst-img img {
+            height: 346px;
+            margin-top: 54px;
+      }
+
+      .banner-bottom-content p {
+            font-size: 21px;
+            display: flex;
+    justify-content: center;
+    align-items: center;
+      }
+
+      .bottom-right-content p {
+            font-size: 14px;
+            display: flex;
+    justify-content: center;
+    align-items: center;
+      }
+
+      .kenapa .kenapa-left {
+            padding-left: 197px;
+      }
+
+      .kenapa-back {
+            padding-right: 0;
+    padding-left: 192px;
+      }
+
+      .kenapa .kenapa-right .clip-board {
+            width: 40px;
+    height: 40px;
+      }
+
+      .kenapa .kenapa-right .clip-content {
+            padding-left: 24px;
+            padding-bottom: 63px;
+        }
+
+        .kenapa .kenapa-left .kenapa-title h1 {
+            font-size: 25px;
+        }
+
+        .kenapa .kenapa-left .count-1 h1 {
+            font-size: 50px;
+        }
+
+        .kenapa .kenapa-left .count-1 p {
+            font-size: 13px;
+        }
+
+        .kenapa .kenapa-left .kenapa-title p {
+            margin-bottom: 52px;
+        }
+
+        .app .app-left {
+            padding-left: 200px;
+        }
+
+        .app-content h2 {
+            font-size: 33px;
+        }
+
+        .app-right {
+            padding-top: 165px;
+        }
+
+        .app-right h1 {
+            font-size: 28px;
+        }
+
+        .app-right p {
+            font-size: 13px;
+        }
+
+        .app-right .right-content {
+            padding-bottom: 39px;
+        }
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 576px) {
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+
+}
+
+/* 
+@media only screen and (min-width: 375px) and (max-width: 399px){
+
+}
+@media only screen and (min-width: 320px) and (max-width: 374px){
+
+} */
